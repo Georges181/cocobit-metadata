@@ -1,0 +1,17 @@
+{
+    "name": "CocoBit",
+    "symbol": "CBIT",
+    "description": "CocoBit is a cross-border digital currency for the Caribbean.",
+    "image": "https://github.com/Georges181/cocobit-metadata/blob/main/CocoBit.png",
+    "decimals": 6,
+    "attributes": [
+        {
+            "trait_type": "Region",
+            "value": "Caribbean"
+        },
+        {
+            "trait_type": "Use Case",
+            "value": "Cross-border payments"
+        }
+    ]
+}
